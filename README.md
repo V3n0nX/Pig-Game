@@ -17,7 +17,7 @@
 </div>
 
 
-![Pig Game preview](./img/preview.png)
+![Pig Game preview](./preview.png)
 
 ### Features
 

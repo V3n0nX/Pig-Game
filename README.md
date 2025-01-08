@@ -27,6 +27,8 @@
 - Players can choose to "hold" to keep the points accumulated in a round and end their turn.
 - The first player to reach 100 points wins.
 
+![Pig Game win preview](./preview1.png)
+
 ---
 
 ### Technologies Used

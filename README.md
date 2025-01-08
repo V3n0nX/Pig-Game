@@ -25,7 +25,8 @@
 - Roll the die to accumulate points.
 - If you roll a 1, you lose the points accumulated during the turn.
 - Players can choose to "hold" to keep the points accumulated in a round and end their turn.
-- The first player to reach 100 points wins.
+- The first player to reach 100 points wins. (The black color indicates the winner)
+- 'New Game' button restarts the score and sets back the colors
 
 ![Pig Game win preview](./preview1.png)
 

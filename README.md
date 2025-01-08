@@ -16,7 +16,6 @@
   </p>
 </div>
 
----
 
 ![Pig Game preview](./src/img/preview.png)
 
